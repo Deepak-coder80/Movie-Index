@@ -26,3 +26,15 @@ footer a{
     
     text-decoration: underline;
 }
+
+.footer2 a {
+    color: #000000;
+    font-size: 20px;
+    padding: 10px;
+    
+    transition: all .5s ease;
+  }
+  
+  .footer2 a:hover {
+    color: white;
+  }
